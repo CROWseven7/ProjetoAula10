@@ -34,4 +34,4 @@ Este projeto é uma **refatoração de um site sobre o movimento Tropicália**, 
 ## 🚀 Como ver o Projeto
 
 1. Acesse o site:
-   git clone https://github.com/usuario/repositorio.git
+   https://crowseven7.github.io/ProjetoAula10/
