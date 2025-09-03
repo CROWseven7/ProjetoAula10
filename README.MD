@@ -31,8 +31,7 @@ Este projeto é uma **refatoração de um site sobre o movimento Tropicália**, 
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como ver o Projeto
 
-1. Clone o repositório:
-   ```bash
+1. Acesse o site:
    git clone https://github.com/usuario/repositorio.git
